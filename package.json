@@ -45,7 +45,7 @@
     "express": "^4.17.1",
     "http-proxy-middleware": "^0.21.0",
     "mime": "^2.4.4",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.0",
     "serve": "^11.3.0",
     "vue-template-compiler": "^2.6.11",
